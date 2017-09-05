@@ -138,3 +138,5 @@ not iterable` problem][intprob] also showcased on the blog.
 ## Licensing
 The wordcloud library is MIT licenced, but contains DroidSansMono.ttf, a true type font by Google, that is apache licensed.
 The font is by no means integral, and any other font can be used by setting the ``font_path`` variable when creating a ``WordCloud`` object.
+
+Jason has modified something in this file
